@@ -1,0 +1,193 @@
+
+> otaku-sci-fi@0.0.0 dev
+> vite --host 127.0.0.1 --port 5173
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m740[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m00:14:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m00:14:43[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/router/index.ts[22m
+[2m00:14:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layouts/Navbar.vue[22m
+[2m00:15:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layouts/Footer.vue[22m
+[2m00:15:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layouts/Footer.vue[22m
+[2m00:22:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m00:23:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m00:23:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m00:23:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.vue[22m
+[2m00:23:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layouts/Navbar.vue[22m
+[2m00:23:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layouts/Navbar.vue[22m
+[2m00:23:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layouts/Footer.vue[22m
+[2m00:23:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layouts/Footer.vue[22m
+[2m00:24:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue[22m
+[2m00:24:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue[22m
+[2m00:24:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/SearchView.vue[22m
+[2m00:24:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/SearchView.vue[22m
+[2m00:35:33[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m00:35:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.vue[22m
+[2m00:35:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue[22m
+[2m00:35:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/LoginView.vue[22m
+[2m00:38:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue[22m
+[2m00:38:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/SearchView.vue[22m
+[2m00:38:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m00:52:58[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[31mfailed to load config from C:\Users\USEER\Downloads\otakusci-fi\vite.config.ts[39m
+[2m00:52:58[22m [31m[1m[vite][22m[39m ENOSPC: no space left on device, write
+[2m00:52:58[22m [31m[1m[vite][22m[39m server restart failed
+[2m00:52:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/lib/supabase.ts[22m
+[2m00:57:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layouts/Navbar.vue, /src/views/LoginView.vue, /src/views/RegisterView.vue[22m
+[2m01:03:38[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m01:03:38[22m [36m[1m[vite][22m[39m server restarted.
+[2m02:19:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css, /src/views/HomeView.vue[22m
+[2m10:06:10[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css, /src/views/HomeView.vue[22m
+[2m10:11:07[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m10:11:07[22m [36m[1m[vite][22m[39m server restarted.
+[2m10:11:29[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css, /src/views/HomeView.vue[22m
+[2m10:43:23[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m10:43:23[22m [36m[1m[vite][22m[39m server restarted.
+[2m10:49:23[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m10:49:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css, /src/views/HomeView.vue[22m
+[2m10:49:23[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:07:44[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/router/index.ts[22m
+[2m12:07:44[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css, /src/components/layouts/Navbar.vue, /src/views/LoginView.vue, /src/views/RegisterView.vue[22m
+[2m12:07:44[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/RegisterView.vue, /src/style.css[22m
+[2m12:08:21[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.ts[22m
+[2m12:08:34[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.ts[22m
+[2m12:08:34[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/router/index.ts[22m
+[2m12:08:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css, /src/components/layouts/Navbar.vue, /src/views/LoginView.vue, /src/views/RegisterView.vue[22m
+[2m12:10:46[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css, /src/components/layouts/Navbar.vue, /src/views/LoginView.vue, /src/views/RegisterView.vue[22m
+[2m12:10:46[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.ts[22m
+[2m12:10:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.ts[22m
+[2m12:10:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/stores/auth.ts[22m
+[2m12:14:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m12:43:45[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/router/index.ts[22m
+[2m12:43:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/LoginView.vue, /src/style.css[22m
+[2m12:44:51[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/router/index.ts[22m
+[2m12:50:03[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+Re-optimizing dependencies because vite config has changed
+[2m12:50:03[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:50:07[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m12:50:07[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:52:46[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m12:52:46[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:53:03[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m12:53:04[22m [36m[1m[vite][22m[39m server restarted.
+[2m13:02:51[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m13:02:51[22m [36m[1m[vite][22m[39m server restarted.
+[2m13:02:55[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m13:02:55[22m [36m[1m[vite][22m[39m server restarted.
+[2m13:02:57[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m13:02:57[22m [36m[1m[vite][22m[39m server restarted.
+[2m13:03:01[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m13:03:01[22m [36m[1m[vite][22m[39m server restarted.
+[2m13:06:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css, /src/views/PlayerView.vue[22m
+[2m13:06:47[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css, /src/views/PlayerView.vue[22m
+[2m13:08:07[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/views/HomeView.vue[22m
+[2m13:08:23[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/views/HomeView.vue[22m
+[2m13:08:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m13:08:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m13:09:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css, /src/views/PlayerView.vue[22m
+[2m13:09:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m13:09:40[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css, /src/views/PlayerView.vue[22m
+[2m13:09:40[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m13:11:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/AnimeDetailView.vue, /src/style.css[22m
+[2m13:11:52[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/views/SearchView.vue[22m
+[2m13:26:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m13:26:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m13:26:26[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/views/SearchView.vue[22m
+[2m13:26:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m13:26:27[22m [31m[1m[vite][22m[39m [31mInternal server error: Invalid end tag.[39m
+  Plugin: [35mvite:vue[39m
+  File: [36mC:/Users/USEER/Downloads/otakusci-fi/src/views/HomeView.vue[39m:4:47
+[33m  2  |    <main>
+  3  |      <section class="hero">
+  4  |        <div class="hero-bg" aria-hidden="true"></n        <div class="hero-overlay" aria-hidden="true"></div>
+     |                                                 ^
+  5  |        <div class="container hero-content">
+  6  |          <p class="eyebrow">A curated anime library</p>[39m
+      at createCompilerError (C:\Users\USEER\Downloads\otakusci-fi\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1378:17)
+      at emitError (C:\Users\USEER\Downloads\otakusci-fi\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3035:5)
+      at Object.onclosetag (C:\Users\USEER\Downloads\otakusci-fi\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:2412:9)
+      at Tokenizer.stateInClosingTagName (C:\Users\USEER\Downloads\otakusci-fi\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:799:16)
+      at Tokenizer.parse (C:\Users\USEER\Downloads\otakusci-fi\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:1157:16)
+      at Object.baseParse (C:\Users\USEER\Downloads\otakusci-fi\node_modules\@vue\compiler-core\dist\compiler-core.cjs.js:3074:13)
+      at Object.parse (C:\Users\USEER\Downloads\otakusci-fi\node_modules\@vue\compiler-dom\dist\compiler-dom.cjs.js:910:23)
+      at Object.parse$1 [as parse] (C:\Users\USEER\Downloads\otakusci-fi\node_modules\@vue\compiler-sfc\dist\compiler-sfc.cjs.js:1824:24)
+      at createDescriptor (file:///C:/Users/USEER/Downloads/otakusci-fi/node_modules/@vitejs/plugin-vue/dist/index.mjs:71:43)
+      at handleHotUpdate (file:///C:/Users/USEER/Downloads/otakusci-fi/node_modules/@vitejs/plugin-vue/dist/index.mjs:2198:26)
+[2m13:26:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m13:26:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m13:26:35[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/views/SearchView.vue[22m
+[2m13:26:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m13:35:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m13:35:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m13:35:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m13:35:06[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/views/SearchView.vue[22m
+[2m13:40:02[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m13:40:02[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m13:40:02[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m13:40:02[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/views/SearchView.vue[22m
+[2m13:48:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m13:48:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m13:49:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m13:49:13[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/views/SearchView.vue[22m
+[2m13:49:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m13:49:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m13:49:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m13:49:59[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/views/SearchView.vue[22m
+[2m13:54:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/SearchView.vue, /src/style.css[22m
+[2m13:54:58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/SearchView.vue, /src/style.css[22m
+[2m13:57:24[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m13:57:24[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m13:57:24[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/SearchView.vue, /src/style.css[22m
+[2m13:57:24[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m13:58:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m13:58:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m13:58:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m13:58:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/SearchView.vue, /src/style.css[22m
+[2m13:59:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m13:59:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/SearchView.vue, /src/style.css[22m
+[2m13:59:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m13:59:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m13:59:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/SearchView.vue, /src/style.css[22m
+[2m14:00:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m14:00:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/PlayerView.vue, /src/style.css[22m
+[2m14:00:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m14:00:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/SearchView.vue, /src/style.css[22m
+[2m14:19:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m14:19:32[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m14:22:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m14:27:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m14:35:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m14:38:48[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m14:40:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m14:41:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m14:44:38[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m14:45:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m14:49:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/AnimeDetailView.vue, /src/style.css[22m
+[2m14:51:48[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/AnimeDetailView.vue, /src/style.css[22m
+[2m14:52:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/AnimeDetailView.vue, /src/style.css[22m
+[2m15:09:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:10:07[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:10:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:13:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:13:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:15:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:17:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:17:34[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:18:09[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:20:09[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:20:19[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:21:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:21:24[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:23:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:23:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:26:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:26:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:27:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:27:33[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:31:03[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:42:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:42:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/HomeView.vue, /src/style.css[22m
+[2m15:52:57[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mtailwind.config.js[22m
